@@ -10,6 +10,6 @@ A Python-based microservices architecture built with Flask.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/Flask-Microservices.git
+git clone https://github.com/Jarri-24-7/Flask-Microservices.git
 pip install -r requirements.txt
 python run.py
